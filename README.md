@@ -45,16 +45,8 @@ This repository contains technique definition files (`.atdd` format) for various
 * **indexing.atdd** - Indexing technique for data organization
 * **microplate-read.atdd** - Microplate reader data for high-throughput screening
 
-## Technique Documentation
-
-The following links take you to the automatically generated documentation for the AnIML technique definitions:
-
-* [UV/Vis](https://apps.bssn-software.de/techniquedocs/out/uv-vis)
-* [Chromatography](https://apps.bssn-software.de/techniquedocs/out/chromatography)
-* [Indexing](https://apps.bssn-software.de/techniquedocs/out/indexing)
-
 ## Getting Help
 
 For questions, issues, or contributions, please use GitHub:
-* Open an [issue](https://github.com/laeubisoft/techniques/issues) to report problems or request features
-* Submit a [pull request](https://github.com/laeubisoft/techniques/pulls) to contribute improvements
+* Open an [issue](https://github.com/AnIML/techniques/issues) to report problems or request features
+* Submit a [pull request](https://github.com/AnIML/techniques/pulls) to contribute improvements
