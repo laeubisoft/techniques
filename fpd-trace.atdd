@@ -100,7 +100,7 @@
             </ParameterBlueprint>
             <ParameterBlueprint name="Current to Voltage Conversion Factor" parameterType="Float" modality="optional">
                 <Documentation>Gain factor on the conversion from current to voltage.</Documentation>
-                <Quantity name="Factor"> &A_per_V; </Quantity>
+                <Quantity name="Electrical Conductance"> &A_per_V; </Quantity>
             </ParameterBlueprint>
             <ParameterBlueprint name="Offset Current" parameterType="Float" modality="optional">
                 <Documentation>Bucking (zero adjustment) current to remove background ions, applied before current-to-voltage conversion.</Documentation>
