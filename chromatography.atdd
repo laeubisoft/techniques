@@ -1218,7 +1218,7 @@ CONTROL METHOD
 					</Documentation>
 					<SeriesBlueprint name="Pressure Change Rate" seriesType="Float" dependency="dependent" plotScale="none">
 						<Documentation literatureReferenceID="Ettre PAC">Use for pressure programming – a procedure in which the inlet pressure of the mobile phase is changed systematically during a part or whole of the separation. </Documentation>
-						<Quantity name="Pressure">
+						<Quantity name="Pressure Change Rate">
 							&Pa_per_min; &psig_per_min; &bar_per_min;
 						</Quantity>
 					</SeriesBlueprint>
